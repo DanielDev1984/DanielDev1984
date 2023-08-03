@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+- 🌱 Lifelong learning (and forgetting), including
+o CPP
+o Qt/Qml
+o python
+o Datascience
+o CSS
+o PHP
+o HTML
+o ...
+  
 <!--
 **DanielDev1984/DanielDev1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
